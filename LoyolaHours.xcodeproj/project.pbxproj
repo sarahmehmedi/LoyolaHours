@@ -11,13 +11,13 @@
 		8347B9C61C0E936C0010B6C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8347B9C51C0E936C0010B6C4 /* ViewController.swift */; };
 		8347B9C91C0E936C0010B6C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8347B9C71C0E936C0010B6C4 /* Main.storyboard */; };
 		8347B9CB1C0E936C0010B6C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8347B9CA1C0E936C0010B6C4 /* Assets.xcassets */; };
-		8347B9CE1C0E936C0010B6C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8347B9CC1C0E936C0010B6C4 /* LaunchScreen.storyboard */; };
 		8347B9D91C0E936C0010B6C4 /* LoyolaHoursTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8347B9D81C0E936C0010B6C4 /* LoyolaHoursTests.swift */; };
 		8347B9E41C0E936C0010B6C4 /* LoyolaHoursUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8347B9E31C0E936C0010B6C4 /* LoyolaHoursUITests.swift */; };
 		8347B9F21C0E939C0010B6C4 /* FirstTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8347B9F11C0E939C0010B6C4 /* FirstTableViewController.swift */; };
 		8347B9F41C0E93C90010B6C4 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8347B9F31C0E93C90010B6C4 /* ThirdView.swift */; };
 		8347B9F61C0E93F40010B6C4 /* SecondTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8347B9F51C0E93F40010B6C4 /* SecondTable.swift */; };
 		8347B9F81C0E94120010B6C4 /* SecondTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8347B9F71C0E94120010B6C4 /* SecondTableViewController.swift */; };
+		8347B9FA1C0EA5F10010B6C4 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8347B9F91C0EA5F10010B6C4 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +43,6 @@
 		8347B9C51C0E936C0010B6C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8347B9C81C0E936C0010B6C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8347B9CA1C0E936C0010B6C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8347B9CD1C0E936C0010B6C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8347B9CF1C0E936C0010B6C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8347B9D41C0E936C0010B6C4 /* LoyolaHoursTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoyolaHoursTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8347B9D81C0E936C0010B6C4 /* LoyolaHoursTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoyolaHoursTests.swift; sourceTree = "<group>"; };
@@ -55,6 +54,7 @@
 		8347B9F31C0E93C90010B6C4 /* ThirdView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 		8347B9F51C0E93F40010B6C4 /* SecondTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondTable.swift; sourceTree = "<group>"; };
 		8347B9F71C0E94120010B6C4 /* SecondTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondTableViewController.swift; sourceTree = "<group>"; };
+		8347B9F91C0EA5F10010B6C4 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +113,7 @@
 				8347B9F71C0E94120010B6C4 /* SecondTableViewController.swift */,
 				8347B9C71C0E936C0010B6C4 /* Main.storyboard */,
 				8347B9CA1C0E936C0010B6C4 /* Assets.xcassets */,
-				8347B9CC1C0E936C0010B6C4 /* LaunchScreen.storyboard */,
+				8347B9F91C0EA5F10010B6C4 /* Launch Screen.storyboard */,
 				8347B9CF1C0E936C0010B6C4 /* Info.plist */,
 			);
 			path = LoyolaHours;
@@ -241,8 +241,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8347B9CE1C0E936C0010B6C4 /* LaunchScreen.storyboard in Resources */,
 				8347B9CB1C0E936C0010B6C4 /* Assets.xcassets in Resources */,
+				8347B9FA1C0EA5F10010B6C4 /* Launch Screen.storyboard in Resources */,
 				8347B9C91C0E936C0010B6C4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -315,14 +315,6 @@
 				8347B9C81C0E936C0010B6C4 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		8347B9CC1C0E936C0010B6C4 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8347B9CD1C0E936C0010B6C4 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
