@@ -35,7 +35,7 @@ class FirstTableViewController: UITableViewController{
                 SecondTable(SecondTitle: ["Break","Fall","Spring"]),
                 SecondTable(SecondTitle: ["Break","Fall","Spring"])]
         
-        ThirdArray = [ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
+        ThirdArray = [ThirdView(ThirdViewArray: ["asdkljf","Sunday 10am - 9pm, Mon-Thurs: 7:30am - 9pm, Friday: 7:30am - 8pm, Saturday: 10am - 8pm ","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
