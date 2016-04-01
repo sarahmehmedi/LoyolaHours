@@ -35,15 +35,15 @@ class FirstTableViewController: UITableViewController{
                 SecondTable(SecondTitle: ["Break","Fall","Spring"]),
                 SecondTable(SecondTitle: ["Break","Fall","Spring"])]
         
-        ThirdArray = [ThirdView(ThirdViewArray: ["asdkljf","Sunday 10am - 9pm, Mon-Thurs: 7:30am - 9pm, Friday: 7:30am - 8pm, Saturday: 10am - 8pm ","asdfas"]),
+        ThirdArray = [ThirdView(ThirdViewArray: ["asdkljf","Phone: (773) 508-8708\n\nMon-Thurs: 7:30am - 9pm\nFriday: 7:30am - 8pm\nSaturday: 10am - 8pm\nSunday: 10am - 9pm\n","Phone: (773) 508-8708\n\nMon-Thurs: 7:30am - 9pm\nFriday: 7:30am - 8pm\nSaturday: 10am - 8pm\nSunday: 10am - 9pm\n"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
-            ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
-            ThirdView(ThirdViewArray: ["asdkljf","asdfasd","asdfas"]),
+            ThirdView(ThirdViewArray: ["asdkljf","Phone: (773) 508-3482\n\nMonday-Friday: 7am-6pm\nSaturday-Sunday:CLOSED","Phone: (773) 508-3482\n\nMonday-Friday: 7am-6pm\nSaturday-Sunday:CLOSED"]),
+            ThirdView(ThirdViewArray: ["asdkljf","Monday-Friday: 7am-6pm\nSaturday-Sunday:CLOSED","asdfas"]),
             ThirdView(ThirdViewArray: ["asdkljf"])]
         
         
