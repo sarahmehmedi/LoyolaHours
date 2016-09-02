@@ -6,7 +6,7 @@ This is an iOS app that I decided to create to help solve problems for new stude
 --------------------------------------
 **Screenshot Below:**
 ##
-![Alt text](screenshots/tabs.jpg)
+![Alt text](screenshots/tabs.png)
 ![Alt text](/screenshots/navibar.gif?raw=true “Navigating”)
 
 
